@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "winAppCadena/1.0.0": {
+        "dependencies": {
+          "Cadenas": "1.0.0"
+        },
+        "runtime": {
+          "winAppCadena.dll": {}
+        }
+      },
+      "Cadenas/1.0.0": {
+        "runtime": {
+          "Cadenas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "winAppCadena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cadenas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
